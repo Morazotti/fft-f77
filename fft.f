@@ -1,1 +1,1 @@
-! Este programa faz a transformada rápida de Fourier de um dado input.
+! this program will, given an input, calculate its fast fourier transform
