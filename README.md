@@ -5,6 +5,6 @@ This program calculates the Fast Fourier Transform of a given input.
 
 # How to compile
 
- $ fortran fft.f
+ [$ fortran fft.f]
 
 # How to understand the data
